@@ -9,7 +9,7 @@ An interactive, high-fidelity web application built with **Python**, **Streamlit
 ---
 
 ## 🚀 Live Demo
-**[Insert your Streamlit Cloud URL here]**
+**https://spotify-2025-dashboard-adpkbnzbmtru9jcyd33llw.streamlit.app/**
 
 ---
 
