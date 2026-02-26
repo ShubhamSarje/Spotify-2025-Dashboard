@@ -247,4 +247,8 @@ If you found this project helpful or interesting, please consider giving it a st
 
 ---
 
+<<<<<<< HEAD
 **Built with ❤️ by Shubham Sarje**
+=======
+**Built with ❤️ by Shubham Sarje**
+>>>>>>> c6c5f402acaa7d83df1b79fcd6b63f72d0b14901
